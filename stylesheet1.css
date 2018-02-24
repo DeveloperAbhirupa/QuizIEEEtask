@@ -95,17 +95,17 @@ background: linear-gradient(white,grey);
 {
   /* Adjust font size on phones*/
   .C1 {
-    font-size: 25px;
-    margin: 3%;
+    font-size: 29px;
+    margin: 1%;
   }
   #form{
-    font-size: 18px;
+    font-size: 22px;
   }
   .d3{
     font-size: 40px;
   }
   #date{
-    font-size: 90px;
+    font-size: 150px;
   }
   .d2{
     font-size: 30px;
@@ -115,9 +115,9 @@ background: linear-gradient(white,grey);
     font-size: 15px;
   }
   #s{
-    font-size: 30px;
+    font-size: 34px;
   }
   .sub{
-    font-size: 20px;
+    font-size: 22px;
   }
 }
